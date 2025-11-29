@@ -219,4 +219,5 @@ __marimo__/
 # project specific
 *.mp4
 *.webm
+*.mkv
 yolov8n.pt
